@@ -136,8 +136,11 @@ body{
   .single-pricing:hover{
     transform:scale(1.05);
     background: #3F87F5;
-    color: #ffffff !important;
+    color: #ffffff ;
   }
-  .single-pricing p i:hover{
-    color: #ffffff!important;
+  
+  /* footer styles */
+  .copyright{
+    font-size:10px;
+    color: #D9DBE1!important;
   }
